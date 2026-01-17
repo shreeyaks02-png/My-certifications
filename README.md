@@ -8,6 +8,10 @@ Issued By Simplilearn.
 Course in AI Agents For Beginners.
 Issued By Simplilearn.
 
+Course in AI agents Passport.
+Issued by Microsoft.
+
+
 Seminars:
 Technical seminar.
 Conducted By Nokia.
