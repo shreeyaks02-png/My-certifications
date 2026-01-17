@@ -11,3 +11,7 @@ Issued By Simplilearn.
 Seminars:
 Technical seminar.
 Conducted By Nokia.
+
+Workshop: 
+AI agents workshop.
+Conducted By Kamala Innovations.
