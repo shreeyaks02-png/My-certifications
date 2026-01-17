@@ -18,5 +18,10 @@ Conducted By Nokia.
 
 Workshop: 
 AI agents workshop.
+It was a 10 day workshop.
 Conducted By Kamala Innovations.
-Had hosted a mini-hackathon , took part in that.
+Had hosted a mini-hackathon , took part in that. 
+
+Attended HR Conclave Workshop.
+Participated in Google Developers Tech Sprint Hackathon.
+
