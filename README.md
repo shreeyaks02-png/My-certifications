@@ -15,3 +15,4 @@ Conducted By Nokia.
 Workshop: 
 AI agents workshop.
 Conducted By Kamala Innovations.
+Had hosted a mini-hackathon , took part in that.
