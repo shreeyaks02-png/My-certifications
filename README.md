@@ -5,6 +5,9 @@ Certifications:
 Course in Introduction To Generative AI Studio.
 Issued By Simplilearn.
 
+Course in AI Agents For Beginners.
+Issued By Simplilearn.
+
 Seminars:
 Technical seminar.
 Conducted By Nokia.
